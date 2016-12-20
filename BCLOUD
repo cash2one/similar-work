@@ -1,0 +1,1 @@
+BUILD_SUBMITTER -u ./ -c " export MAC=64 && cd app/search/video/ugc-recommendation/longvideo-rp/similar-work && sh build.sh" -o "output/*" -m app/search/video/ugc-recommendation/longvideo-rp/similar-work -x
